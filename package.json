@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "tsc %npm_config_name%/index.ts && node %npm_config_name%/index.js"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
